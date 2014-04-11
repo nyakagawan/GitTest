@@ -1,0 +1,3 @@
+[submodule "GitSubModTest"]
+	path = GitSubModTest
+	url = https://github.com/nyakagawan/GitSubModTest
